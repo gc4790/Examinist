@@ -1,0 +1,80 @@
+.container{
+	margin : auto;
+}
+.label-sp{
+	padding-bottom :35px;
+	color : #202124	
+}
+.label-sp1{
+	padding :5px;
+	color : #202124	
+}
+.login{
+	font-family:'open-sans',sans-serif;
+	font-size:19px;
+	height : 250px;
+	width : 550px;
+	padding: 5px 80px;
+	margin-left: 30%;
+	border: 0.9px solid #b7c9cc;
+	border-radius: 5px;
+}
+
+#main-header{
+	background-color : #39424e;
+}
+#login{
+	padding-top : 130px;
+	padding-bottom :130px;
+	margin : 0;
+	
+}
+
+#login input[type=text]{
+	padding:7px;
+	width : 200px;
+}
+#login input[type=password]{
+	padding:7px;
+	width : 200px;
+}
+
+
+#label-text1{
+	padding : 19px;
+}
+
+.primary-text{
+	padding-top : 20px;
+	padding-bottom : 20px;
+	color : #fff;
+	font-family : 'open-sans',sans-serif;
+}
+
+body{
+	
+	font-family:'open-sans',sans-serif;
+	font-size:17px;
+	line-height:1.5em;
+	margin:0;
+	padding:0;
+}
+
+
+
+@media(max-width:800px){
+	.login{
+	margin-left: 0%;;
+	padding : 0px;
+	}
+	#label-text{
+	padding: 0px;
+	}
+	}
+	
+	@media(max-width:500px){
+	.login{
+	margin: 0px;
+	padding : 0px;
+	}
+	}
