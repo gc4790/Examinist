@@ -6,10 +6,12 @@
 <meta charset="ISO-8859-1">
 <title>Examatics</title>
 
-<link rel="stylesheet" type="text/css" href="WEB_INF/css/flexboxgrid.css"> 
-<link rel="stylesheet" type="text/css" href="WEB-INF/css/style.css"> 
+
+<link rel="stylesheet" type="text/css" href="static/css/flexboxgrid.css"> 
+<link rel="stylesheet" type="text/css" href="static/css/style.css"> 
 
 </head>
+
 <body>
 
 <!-- Header -->
